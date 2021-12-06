@@ -26,7 +26,7 @@
 param(
   [Parameter(
     Mandatory = $true,
-    HelpMessage = "Enter your SharePoint Admin URL. For exampl https://contoso-admin.sharepoint.com"
+    HelpMessage = "Enter your SharePoint Admin URL. For exampl https://https://developindy.sharepoint.com/"
   )]
   [string]$url,
 
